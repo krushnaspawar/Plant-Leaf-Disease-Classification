@@ -3,4 +3,6 @@
 * Models are trained on the preprocessed data which can be downloaded from [here](https://www.kaggle.com/datasets/emmarex/plantdisease).
 * Plant Name	Number of Samples
 
-![image](https://user-images.githubusercontent.com/48135949/163217730-3bb5b1bc-c414-4c49-b761-650e09710207.png)
+
+![image](https://user-images.githubusercontent.com/48135949/163217914-83bb4c99-612f-4592-9368-7846b8adff9c.png)
+
