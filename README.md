@@ -9,5 +9,5 @@
 
 ![image](https://user-images.githubusercontent.com/48135949/163217914-83bb4c99-612f-4592-9368-7846b8adff9c.png)
 
-* ##Citation:##
-* When using this repo, please cite: [Plant Village Paper](https://arxiv.org/abs/1511.08060).
+* ## Citation: ##
+ When using this repo, please cite: [Plant Village Paper](https://arxiv.org/abs/1511.08060).
